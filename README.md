@@ -32,8 +32,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  * Hardware Audit: other security implementations: $4000
  
  Please ask sophi@dewi.org or scott@dewi.org for an invoice.
- ![Screenshot](TEST.jpg)
-
+ 
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
  Fill it out; if you have questions or concerns about a particular question, ask on GitHub or on Discord. Many questions are required, and leaving blank will delay your application.
