@@ -15,7 +15,7 @@ ECU800 Ethereum Mining product in development, will release in Oct.
 * How many have you sold? 
 We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
 * What brought you to Helium etc? 
-We are impressed by Helium concept and it’s business future.
+We are impressed by Helium concept and it’s business future.aaaaaaaaaaaaaaa
 ## Product Information (required)
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 This is full hotspot.
